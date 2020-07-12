@@ -1,4 +1,4 @@
-# HeatDifussion-OpenCL
+# HeatDiffusion-OpenCL
 
 Group:
 - Onno de Gouw
